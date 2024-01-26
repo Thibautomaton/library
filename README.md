@@ -1,1 +1,1 @@
-Library web of books with simple webforms and database
+Web library of books with simple webforms and database
